@@ -1,0 +1,16 @@
+{
+    "name": "sakib/doorspin",
+    "description": "Generate unique random doors pin",
+    "autoload": {
+        "psr-4": {
+            "Sakib\\Doorspin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sakib ali",
+            "email": "alisakib899@gmail.com"
+        }
+    ],
+    "require": {}
+}
